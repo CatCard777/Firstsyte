@@ -1,3 +1,1 @@
-# Firstsyte
-I do my first website
-Тут есть framework, css, html
+# 2 проект с sweltekit
